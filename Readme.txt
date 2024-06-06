@@ -1,6 +1,2 @@
-Thanks for downloading this template!
-
-Template Name: Gp
-Template URL: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Finance website that assists individuals and businesses in making informed decisions, managing budgets and achieving financial goals.
+This website Provide services as virtual interaction with CA, daily updated businessrelates news, articles on the same dashboard.Also include chatbot to find out the solution to the business related problems.
